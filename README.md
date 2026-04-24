@@ -24,14 +24,23 @@ Acesse nossa ferramenta exclusiva de estudo interlinear para uma compreensão ma
 - **Cursos Atualizados:** Aulas estruturadas e materiais de apoio modernos.
 - **Comunidade Ativa:** Espaço para troca de conhecimento e dúvidas.
 - **Design Premium:** Interface focada na legibilidade e experiência do usuário.
+## 🌟 Destaques da Plataforma
 
-## 🛠️ Tecnologias Utilizadas
+- **Bíblia Interlinear**: A melhor plataforma para estudo aprofundado bíblico nos idiomas mais importantes e antigos das Escrituras. Explore os textos originais com ferramentas modernas.
+- **Cursos Atualizados**: Acesso direto a `cursos.judeus.de` com conteúdos objetivos e aulas claras.
+- **Comunidade Ativa**: Links integrados para nossas comunidades no Linktree e canais complementares.
 
-O portal foi construído utilizando tecnologias web fundamentais, priorizando performance e elegância:
+## 🚀 Como acessar
 
-- **Linguagem:** HTML5 Semântico
-- **Estilização:** CSS3 Moderno (Gradients, Glassmorphism, Animations)
-- **Tipografia:** Google Fonts (Playfair Display & Sora)
+Você pode acessar a versão ao vivo do nosso site em:
+👉 **[judeus.de](https://judeus.de)**
+
+## 🎨 Design e Tecnologia
+
+Este site utiliza tecnologias modernas de desenvolvimento web:
+- **Glassmorphism UI**: Design premium com efeitos de transparência e desfoque.
+- **Mobile First**: Totalmente responsivo e otimizado para dispositivos móveis.
+- **Acessibilidade**: Focado em legibilidade e facilidade de navegação.
 
 ---
 
@@ -43,6 +52,6 @@ O portal foi construído utilizando tecnologias web fundamentais, priorizando pe
 
 ---
 <p align="center">
-  Desenvolvido com foco no estudo das Escrituras. <br>
+  Mantido por [@judeusverdadeiros](https://linktr.ee/judeusverdadeiros).
   <b>© 2026 judeus.de</b>
 </p>
